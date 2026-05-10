@@ -1,1 +1,1 @@
-# Analytic-App-Kursova-Shevchuk
+Через батнік можна одразу запустити програму
