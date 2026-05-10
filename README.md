@@ -1,0 +1,1 @@
+# Analytic-App-Kursova-Shevchuk
